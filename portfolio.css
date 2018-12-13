@@ -1,0 +1,24 @@
+@charset "utf-8";
+.row3 {
+	display:flex;
+	flex-wrap:wrap;
+	padding:0 4px;
+}
+.column3 {
+	flex:32%;
+	padding:400 4px;
+}
+.column3 img {
+	margin-top: 8px;
+	vertical-align:middle;
+}
+.ports {
+    background: none;
+    color: white;
+    text-align: center;
+    top: 100px;
+    left: -40.5%;
+    font-family: amaranth;
+    font-style: normal;
+    font-weight: 400;	
+}
